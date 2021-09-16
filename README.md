@@ -1,2 +1,2 @@
 # git-test
-Tes git multiple fremote
+Tes git multiple remote
